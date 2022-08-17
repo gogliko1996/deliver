@@ -1,0 +1,392 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+h1  {
+    margin: 60px 90px;
+    font-size: 20px;
+    margin-right: 220px;
+    float: left;
+}
+
+h1 a {
+    color: black;
+}
+
+header ul li {
+    float: left;
+    margin-top: 60px;
+    margin-right: 70px;
+    font-size: 20px;
+    padding-bottom: 5px; 
+}
+
+ul li a {
+    color: black;
+}
+
+.botton {
+height: 20px;
+width: 34px;
+border-radius: 50px;
+border: solid 2px black;
+margin-right: 100px;
+
+}
+.botton div {
+    background-color: black;
+    height: 16px;
+    width: 17px;
+    border-radius: 50%;
+    
+}
+      
+.order a {
+    background-color: #FDC72D;
+    padding: 20px 15px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+.point {
+    border-bottom: solid 2px black;
+    
+    
+}
+main {
+    padding-top: 120px;  
+}
+.imgbick {
+    width: 870px;
+    height: 722px;
+    float: right;
+    background-image: url(../img/bicke.png);  
+}
+.orderbox {
+    width: 466px;
+    height: 306px;
+    margin-top: 190px;
+    margin-left: 80px;
+    margin-bottom: 52px;
+    
+}
+
+.orderbox h2 {
+    color: #000000;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 36px;  
+
+}
+.orderbox p {
+    color: #777776;
+    font-size: 20px;
+}
+
+.get a { 
+    color: #000000;
+    background-color: #FDC72D;
+    margin-left: 80px;
+    padding: 20px 15px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-right: 220px;
+}
+
+/* .......About  Us............ */
+
+.dorimg{
+    background-image: url(../img/dorimg.png);
+    background-repeat: no-repeat; 
+    width: 676px;
+    height: 506px;
+     margin: 90px 80px; 
+}
+.find {
+    width: 510px;
+    height: 272px;
+    margin-top: 178px;
+     float: right; 
+}
+.find h2 {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 30px;
+}
+.your {
+    width: 502px;
+    height: 289px;
+    margin-top: 298px;
+    float: left;
+}
+.your h2 {
+    font-size: 40px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 42px;
+}
+.drobman {
+    background-image: url(../img/boxman.png);
+    background-repeat: no-repeat;
+    width:745px ;
+    height: 492px;
+    margin-top: 224px;
+     float: right;  
+
+}
+
+/* ............Services............ */
+
+.some {
+    width:380px;
+    height: 120px;
+    margin: 70px 530px;
+}
+
+.some h2 {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.some p {
+    margin-left: 100px;
+}
+.statia {
+    width: 380px;
+    height: 380px;
+    border:solid 2px #000000;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgb(162, 162, 168);
+    margin:20px 30px;
+    margin-bottom: 158px;
+    float: left;
+}
+.statia h2 {
+    font-size: 20px;
+    margin: 34px 116px ;
+}
+.statia div {
+     background-image:url(../img/mani.png) ;  
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 202px;
+    height: 122px;
+    margin:32px 90px ;
+}
+.statia p {
+    margin: 30px 74px;
+    color: #777776;
+}
+.statia .learm {
+    font-size:15px ;
+    margin:26px 150px ;
+}
+.statia .deliv {
+    background-image:url(../img/deliv.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 146px;
+    height: 148px;
+    margin:14px 118px ;
+}
+.statia .produqt  {
+    background-image:url(../img/local.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 152px;
+    height: 142px;
+    margin:20px 114px ;
+}
+.local {
+    clear: left;
+    background-image: url(../img/local.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 544px;
+    height: 498px;
+    margin-left: 76px;
+    margin-bottom: 100px;
+     float: left;
+}
+.watch {
+    width: 510px;
+    float: right;
+}
+.watch section {
+    width: 410px;
+    height: 250px;
+}
+.watch section h2 {
+    font-size: 40px;
+}
+.watch section p {
+    margin-top: 28px;
+    color: #777776;
+    margin-bottom: 100px;
+}
+.watch a {
+    float: left;
+    margin-left:42px ;
+}
+
+.storbox{
+    background-color: #FDC72D;
+    width: 150px;
+    height: 60px;
+     padding-top: 16px;
+    border-radius: 61px;
+}
+.storbox  div {
+    background-image: url(../img/app.png);
+    background-repeat: no-repeat;
+    color: #000000;
+    width: 24px;
+    height: 28px;
+    margin-left: 15px;
+     float: left; 
+}
+.storbox b {
+    color: #000000;
+    margin-left: 16px;
+}
+.Google div {
+    background-image: url(../img/google.png);
+    background-repeat: no-repeat;
+    color: #000000;
+    width: 24px;
+    height: 28px;
+    margin-left: 15px;
+     float: left; 
+}
+.Google {
+    background-color: #FDC72D;
+    width: 150px;
+    height: 60px;
+     padding-top: 16px;
+    border-radius: 61px;
+}
+.Google b {
+    color: #000000;
+    margin-left: 16px;
+}
+
+/*............. Contact Us............. */
+
+.tel {
+    width: 280px;
+    height: 144px;
+    margin-top: 150px;
+    margin-right: 160px;
+     float: right;  
+}
+.tel  p span {
+    color: #000000;
+}
+.tel  p {
+    color: #777776;
+    margin-top:40px ;
+}
+.contact {
+    width: 300px;
+    height: 256px;
+    margin: 114px 80px ;
+    float: left;
+}
+.contact h2 {
+    font-size: 40px;
+}
+.contact p {
+    color: #777776;
+   margin-top: 40px;
+}
+.us a {
+    background-color: #FDC72D;
+    color: #000000;
+    padding: 20px 15px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-top: 246px;
+    margin-right: 146px;
+    float: right;
+}
+
+/* ..........footer......... */
+article{
+    background-color: #fee395;
+    margin-top:1200px; 
+    width: 100%;
+    height: 450px;
+    padding:112px 94px  ; 
+}
+.deliv {
+    width:182px ;
+    float: left;
+    margin-right: 84px;
+}
+.last a {
+    color: #000000;
+}
+.last{
+    margin-bottom: 22px;
+
+}
+.last2 a {
+    color: #777776;
+}
+.last2 {
+    margin-bottom:8px ;
+}
+.services {
+     float: left; 
+     margin-right: 108px; 
+}
+.compani {
+    float: left; 
+    margin-right:76px ; 
+}
+.community {
+    float: left;
+    margin-right: 112px; 
+}
+.social {
+    float: right; 
+}
+.fb  {
+    background-image: url(../img/fb.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width:28px ;
+    height: 28px;
+    float: left;
+}
+.tviter  {
+    background-image: url(../img/tviter.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width:28px ;
+    height: 28px;
+    margin-left: 40px;
+    float: right;
+
+}
+.insta {
+    background-image: url(../img/instagram.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width:28px ;
+    height: 28px;
+    margin-left: 40px;
+    float: right; 
+}
+.fit {
+    display: block;
+    width:28px ;
+    height: 28px;
+
+}
+.a{
+    clear: left;
+    margin: 300px 468px; 
+}
+
